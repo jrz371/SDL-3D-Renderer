@@ -1,0 +1,8 @@
+MESSAGE: SDL Initialized Correctly
+MESSAGE: SDL Created Window Correctly
+MESSAGE: SDL Created Renderer Correctly
+MESSAGE: Loaded Mesh: Monkey.txt
+MESSAGE: Loaded Mesh: Monkey.txt
+MESSAGE: Destroyed Renderer
+MESSAGE: Destroyed Window
+MESSAGE: Quit SDL
